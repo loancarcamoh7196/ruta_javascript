@@ -7,3 +7,6 @@
 [submodule "Curso_FrontEnd_Developer"]
 	path = Curso_FrontEnd_Developer
 	url = https://github.com/loancarcamoh7196/Curso_FrontEnd_Developer.git
+[submodule "Platzi_asincronismo_javascript"]
+	path = Platzi_asincronismo_javascript
+	url = https://github.com/loancarcamoh7196/Platzi_asincronismo_javascript.git
