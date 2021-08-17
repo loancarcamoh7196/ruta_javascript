@@ -4,3 +4,6 @@
 [submodule "Platzi_Escuela_JS"]
 	path = Platzi_Escuela_JS
 	url = https://github.com/loancarcamoh7196/Platzi_Escuela_JS.git
+[submodule "Curso_FrontEnd_Developer"]
+	path = Curso_FrontEnd_Developer
+	url = https://github.com/loancarcamoh7196/Curso_FrontEnd_Developer.git
